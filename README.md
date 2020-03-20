@@ -4,7 +4,7 @@ Bash script to identify open TCP ports with netcat. No other needs. This is usef
 Multiple sessions in parallels for the speed. 
 
 # Some screenshots
-Following the progression:
+Follow the progression:
 
 ![Example Progression](screenshots/Progression.PNG)
 
