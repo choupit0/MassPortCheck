@@ -29,7 +29,6 @@ chmod +x MassPortCheck.sh
 After you have just to launch the script with for parameters:
 ```
 ./MassPortCheck.sh [IP address or hostname] [first port range] [last port range] [number of parallels process]
-e.g. /MassPortCheck.sh 192.168.2.1 1 1024 100 (on your LAN)
 e.g. proxychains ./MassPortCheck.sh www.acme.org 1 1024 50 (via TOR network)
 ```
 The bash script is compatible with IP addess and hostname. One force of the script is the number of sessions working in parallel, last parameter to set.
