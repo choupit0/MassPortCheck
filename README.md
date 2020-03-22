@@ -13,12 +13,11 @@ Complete scan:
 ![Example Ended](screenshots/MassPortCheck.PNG)
 
 # Prerequisites
-- netcat utility
+- netcat utility, tor and proxychains
 ```
 sudo apt update
-sudo apt install netcat
+sudo apt install netcat tor proxychains
 ```
-- tor and proxychains (https://phackt.com/tor-proxychains)
 # How to install and use it?
 Installation:
 ```
