@@ -18,7 +18,7 @@ Complete scan:
 sudo apt update
 sudo apt install netcat
 ```
-
+- tor and proxychains (https://phackt.com/tor-proxychains)
 # How to install and use it?
 Installation:
 ```
