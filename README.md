@@ -35,6 +35,7 @@ The bash script is compatible with IP addess and hostname. One force of the scri
 
 **Note that the script will detect if your Internet access is working and if the hostname used is resolvable**
 # GIF Demo
+In this demo all the outbound traffic is blocked with iptables, except for tor user:
 ![Example Demo](demo/MassPortCheck_Demo.gif)
 
 # Compatibility
